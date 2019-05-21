@@ -1,4 +1,4 @@
-package edu.beth.ProjectGameF;
+﻿package edu.beth.ProjectGameF;
 
 import javafx.scene.layout.BackgroundImage;
 import java.util.ArrayList;
@@ -32,7 +32,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
-import javafx.util.Duration;
+import javafx.util.Duration;dfhasdhasdklfj
 
 public class Main extends Application {
 	Stage GameStage;
